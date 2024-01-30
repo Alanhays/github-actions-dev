@@ -1,0 +1,9 @@
+name: 'Github Articles Dev'
+description: 'Github Articles Dev'
+author: 'Alanhays'
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
+branding:
+  icon: 'git-commit'
+  color: 'blue'
